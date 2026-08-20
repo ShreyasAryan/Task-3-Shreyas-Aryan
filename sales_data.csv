@@ -1,0 +1,151 @@
+order_id,customer_name,order_date,city,category,units_sold,unit_price,discount,sales,payment_method
+1001,Priya,2025-01-01,Delhi,Electronics,6,6373.28,0.1,34415.71,UPI
+1002,Rahul,2025-01-03,Gurugram,Books,5,577.35,0.11,2569.21,UPI
+1003,Isha,2025-01-05,Meerut,Clothing,2,1504.66,0.05,2858.85,UPI
+1004,Vikash,2025-01-07,Delhi,Books,2,464.99,0.16,781.18,Net Banking
+1005,Aarav,2025-01-09,Noida,Beauty,6,911.94,0.11,4869.76,UPI
+1006,Arjun,2025-01-11,Delhi,Grocery,2,544.39,0.23,838.36,UPI
+1007,Aarav,2025-01-13,Ghaziabad,Grocery,3,466.8,0.21,1106.32,UPI
+1008,Rohit,2025-01-15,Delhi,Electronics,2,5986.79,0.07,11135.43,Net Banking
+1009,Riya,2025-01-17,Meerut,Clothing,8,2069.94,0.08,15234.76,UPI
+1010,Vikash,2025-01-19,Ghaziabad,Grocery,2,563.06,0.2,900.9,Cash
+1011,Arjun,2025-01-21,Noida,Grocery,3,791.45,0.15,2018.2,UPI
+1012,Aarav,2025-01-23,Delhi,Books,9,616.83,0.02,5440.44,Net Banking
+1013,Arjun,2025-01-25,Delhi,Clothing,7,1965.58,0.16,11557.61,Card
+1014,Aarav,2025-01-27,Gurugram,Electronics,6,8030.68,0.11,42883.83,UPI
+1015,Priya,2025-01-29,Gurugram,Clothing,7,1339.72,0.2,7502.43,Net Banking
+1016,Simran,2025-01-31,Ghaziabad,Beauty,9,726.53,0.19,5296.4,UPI
+1017,Priya,2025-02-02,Meerut,Electronics,4,8096.15,0.23,24936.14,Card
+1018,Ananya,2025-02-04,Noida,Clothing,3,2239.6,0.18,5509.42,Card
+1019,Karan,2025-02-06,Gurugram,Beauty,2,672.26,0.23,1035.28,UPI
+1020,Simran,2025-02-08,Delhi,Electronics,6,7569.5,0.09,41329.47,UPI
+1021,Arjun,2025-02-10,Gurugram,Grocery,1,461.02,0.1,1452.22,UPI
+1022,Simran,2025-02-12,Noida,Beauty,5,703.03,0.03,3409.7,UPI
+1023,Dev,2025-02-14,Noida,Clothing,4,1378.54,0.22,4301.04,UPI
+1024,Dev,2025-02-16,Delhi,Grocery,8,569.66,0.06,4283.84,UPI
+1025,Priya,2025-02-18,Ghaziabad,Beauty,5,839.66,0.15,3568.56,Net Banking
+1026,Riya,2025-02-20,Meerut,Electronics,5,8102.41,0.14,34840.36,UPI
+1027,Karan,2025-02-22,Delhi,Grocery,1,625.2,0.21,493.91,Card
+1028,Priya,2025-02-24,Ghaziabad,Books,6,425.87,0.11,2274.15,UPI
+1029,Dev,2025-02-26,Meerut,Grocery,3,561.22,0.05,1599.48,UPI
+1030,Simran,2025-02-28,Noida,Grocery,6,457.49,0.11,2443.0,Cash
+1031,Rohit,2025-03-02,Delhi,Electronics,7,4659.39,0.03,31637.26,Net Banking
+1032,Riya,2025-03-04,Meerut,Grocery,10,623.12,0.09,5670.39,Card
+1033,Aarav,2025-03-06,Ghaziabad,Clothing,7,1813.16,0.16,10661.38,UPI
+1034,Ananya,2025-03-08,Ghaziabad,Grocery,8,552.49,0.03,4287.32,Net Banking
+1035,Aarav,2025-03-10,Gurugram,Clothing,6,1670.28,0.25,7516.26,UPI
+1036,Aarav,2025-03-12,Ghaziabad,Books,8,419.11,0.14,2883.48,UPI
+1037,Rohit,2025-03-14,Meerut,Books,5,602.41,0.09,2740.97,Card
+1038,Arjun,2025-03-16,Gurugram,Clothing,9,1684.01,0.21,11973.31,Net Banking
+1039,Vikash,2025-03-18,Ghaziabad,Grocery,8,517.99,0.05,3936.72,Cash
+1040,Neha,2025-03-20,Gurugram,Clothing,8,1797.19,0.09,13083.54,Card
+1041,Karan,2025-03-22,Delhi,Clothing,9,1485.04,0.24,10157.67,UPI
+1042,Karan,2025-03-24,Meerut,Clothing,4,1575.5,0.08,5797.84,Cash
+1043,Vikash,2025-03-26,Noida,Grocery,4,503.43,0.19,1631.11,Cash
+1044,Simran,2025-03-28,Noida,Clothing,8,2103.19,0.04,16152.5,Net Banking
+1045,Dev,2025-03-30,Delhi,Clothing,1,1561.66,0.14,1343.03,Card
+1046,Karan,2025-04-01,Gurugram,Books,1,700.37,0.17,581.31,UPI
+1047,Vikash,2025-04-03,Ghaziabad,Clothing,7,1697.87,0.07,11053.13,UPI
+1048,Ananya,2025-04-05,Meerut,Beauty,8,713.81,0.1,5139.43,Card
+1049,Vikash,2025-04-07,Delhi,Electronics,1,7300.33,0.15,6205.28,Card
+1050,Simran,2025-04-09,Gurugram,Books,3,627.07,0.16,1580.22,Cash
+1051,Karan,2025-04-11,Meerut,Clothing,8,2211.83,0.06,16632.96,UPI
+1052,Priya,2025-04-13,Delhi,Clothing,5,1402.03,0.11,6239.03,Card
+1053,Dev,2025-04-15,Noida,Grocery,3,763.06,0.25,1716.88,UPI
+1054,Tanya,2025-04-17,Gurugram,Grocery,6,790.31,0.09,4315.09,Cash
+1055,Rohit,2025-04-19,Gurugram,Clothing,9,1588.88,0.2,11439.94,UPI
+1056,Dev,2025-04-21,Gurugram,Electronics,1,6322.48,0.07,5879.91,Card
+1057,Aarav,2025-04-23,Gurugram,Electronics,6,6966.6,0.13,36365.65,UPI
+1058,Mohit,2025-04-25,Ghaziabad,Grocery,4,550.75,0.14,1894.58,UPI
+1059,Mohit,2025-04-27,Meerut,Grocery,5,794.83,0.16,3338.29,Net Banking
+1060,Riya,2025-04-29,Noida,Grocery,6,727.69,0.19,3536.57,UPI
+1061,Riya,2025-05-01,Delhi,Beauty,9,1092.61,0.2,7866.79,Net Banking
+1062,Tanya,2025-05-03,Noida,Grocery,1,630.47,0.18,516.99,Card
+1063,Simran,2025-05-05,Meerut,Electronics,6,6574.09,0.21,31161.19,UPI
+1064,Priya,2025-05-07,Noida,Clothing,10,1469.79,0.22,11464.36,Cash
+1065,Ananya,2025-05-09,Delhi,Grocery,4,577.47,0.1,2078.89,UPI
+1066,Priya,2025-05-11,Noida,Clothing,6,2047.87,0.21,9706.9,Cash
+1067,Isha,2025-05-13,Gurugram,Beauty,1,1147.86,0.14,987.16,UPI
+1068,Riya,2025-05-15,Noida,Beauty,2,712.14,0.08,1310.34,Card
+1069,Mohit,2025-05-17,Gurugram,Books,8,401.71,0.06,3020.86,UPI
+1070,Tanya,2025-05-19,Delhi,Grocery,8,481.31,0.2,3080.38,UPI
+1071,Dev,2025-05-21,Ghaziabad,Books,8,528.71,0.17,3510.63,Net Banking
+1072,Karan,2025-05-23,Ghaziabad,Electronics,3,7641.42,0.04,22007.29,Card
+1073,Dev,2025-05-25,Delhi,Clothing,4,1502.87,0.16,5049.64,Card
+1074,Neha,2025-05-27,Gurugram,Grocery,7,641.08,0.03,4352.93,Card
+1075,Tanya,2025-05-29,Delhi,Books,5,555.08,0.11,2470.11,UPI
+1076,Aarav,2025-05-31,Meerut,Grocery,9,781.7,0.15,23920.0,Cash
+1077,Vikash,2025-06-02,Gurugram,Electronics,3,5189.73,0.17,12922.43,Net Banking
+1078,Tanya,2025-06-04,Noida,Clothing,8,1275.9,0.06,9594.77,UPI
+1079,Rohit,2025-06-06,Meerut,Clothing,6,1807.19,0.03,10517.85,Card
+1080,Arjun,2025-06-08,Meerut,Clothing,8,1643.67,0.15,11176.96,UPI
+1081,Aarav,2025-06-10,Ghaziabad,Electronics,3,5689.44,0.21,13483.97,Card
+1082,Simran,2025-06-12,Gurugram,Clothing,10,2094.02,0.2,16752.16,UPI
+1083,Ananya,2025-06-14,Delhi,Clothing,4,1998.14,0.1,7193.3,Card
+1084,Aarav,2025-06-16,Ghaziabad,Books,1,412.7,0.15,350.79,Cash
+1085,Simran,2025-06-18,Gurugram,Books,3,565.87,0.19,1375.06,Card
+1086,Ananya,2025-06-20,Delhi,Grocery,10,766.16,0.22,5976.05,UPI
+1087,Aarav,2025-06-22,Gurugram,Grocery,10,809.78,0.13,7045.09,Cash
+1088,Aarav,2025-06-24,Meerut,Books,5,385.06,0.22,1501.73,UPI
+1089,Riya,2025-06-26,Noida,Beauty,4,1066.08,0.09,3880.53,Cash
+1090,Tanya,2025-06-28,Ghaziabad,Grocery,6,471.87,0.07,2633.03,Card
+1091,Mohit,2025-06-30,Ghaziabad,Books,7,610.1,0.09,3886.34,UPI
+1092,Rahul,2025-07-02,Gurugram,Beauty,4,952.92,0.19,3087.46,Card
+1093,Isha,2025-07-04,Delhi,Electronics,9,8262.86,0.22,58005.28,Cash
+1094,Arjun,2025-07-06,Ghaziabad,Beauty,5,971.21,0.13,4224.76,Card
+1095,Dev,2025-07-08,Ghaziabad,Clothing,9,1335.53,0.18,9856.21,Net Banking
+1096,Isha,2025-07-10,Noida,Grocery,2,716.46,0.05,1361.27,UPI
+1097,Rahul,2025-07-12,Ghaziabad,Books,5,469.12,0.14,2017.22,UPI
+1098,Priya,2025-07-14,Meerut,Books,3,659.54,0.12,1741.19,UPI
+1099,Karan,2025-07-16,Meerut,Electronics,9,4672.7,0.12,37007.78,Card
+1100,Rahul,2025-07-18,Delhi,Grocery,6,581.41,0.06,3279.15,UPI
+1101,Dev,2025-07-20,Gurugram,Electronics,1,7188.1,0.16,6038.0,UPI
+1102,Rohit,2025-07-22,Noida,Clothing,10,1428.09,0.17,11853.15,Card
+1103,Simran,2025-07-24,Noida,Books,9,598.27,0.17,4469.08,UPI
+1104,Rahul,2025-07-26,Ghaziabad,Clothing,2,2013.0,0.19,3261.06,UPI
+1105,Priya,2025-07-28,Ghaziabad,Grocery,2,741.17,0.13,1289.64,Card
+1106,Rohit,2025-07-30,Meerut,Books,5,673.86,0.22,2628.05,UPI
+1107,Rahul,2025-08-01,Noida,Books,2,521.34,0.15,886.28,UPI
+1108,Rohit,2025-08-03,Delhi,Books,10,432.02,0.22,3369.76,Net Banking
+1109,Riya,2025-08-05,Delhi,Electronics,3,5565.21,0.11,14859.11,UPI
+1110,Dev,2025-08-07,Delhi,Clothing,10,1680.86,0.18,13783.05,Card
+1111,Rohit,2025-08-09,Gurugram,Grocery,7,476.29,0.07,3100.65,Card
+1112,Priya,2025-08-11,Meerut,Electronics,10,7313.34,0.04,70208.06,UPI
+1113,Dev,2025-08-13,Noida,Grocery,10,479.57,0.23,3692.69,Card
+1114,Vikash,2025-08-15,Ghaziabad,Grocery,2,477.51,0.11,849.97,Net Banking
+1115,Karan,2025-08-17,Gurugram,Books,3,692.72,0.03,2015.82,UPI
+1116,Mohit,2025-08-19,Delhi,Beauty,2,1065.37,0.16,1789.82,Card
+1117,Mohit,2025-08-21,Noida,Electronics,6,5539.36,0.23,25591.84,Cash
+1118,Isha,2025-08-23,Meerut,Clothing,7,1629.04,0.2,9122.62,UPI
+1119,Ananya,2025-08-25,Ghaziabad,Grocery,3,777.11,0.25,1748.5,Net Banking
+1120,Ananya,2025-08-27,Meerut,Electronics,7,6965.02,0.24,37053.91,Card
+1121,Neha,2025-08-29,Delhi,Clothing,9,1546.11,0.12,36735.57,Card
+1122,Dev,2025-08-31,Meerut,Grocery,2,630.12,0.07,1172.02,Card
+1123,Rahul,2025-09-02,Ghaziabad,Electronics,7,7886.68,0.04,52998.49,UPI
+1124,Isha,2025-09-04,Ghaziabad,Books,1,385.23,0.08,354.41,Card
+1125,Simran,2025-09-06,Ghaziabad,Beauty,1,1165.89,0.17,967.69,UPI
+1126,Tanya,2025-09-08,Noida,Electronics,6,6757.14,0.23,31217.99,Net Banking
+1127,Simran,2025-09-10,Gurugram,Grocery,2,525.99,0.02,1030.94,Card
+1128,Simran,2025-09-12,Noida,Books,8,649.06,0.21,4102.06,UPI
+1129,Rohit,2025-09-14,Delhi,Beauty,5,671.15,0.2,2684.6,UPI
+1130,Riya,2025-09-16,Noida,Clothing,3,1702.8,0.18,4188.89,Net Banking
+1131,Tanya,2025-09-18,Gurugram,Electronics,7,6785.22,0.05,45121.71,Cash
+1132,Rahul,2025-09-20,Meerut,Beauty,5,763.48,0.03,3702.88,Card
+1133,Simran,2025-09-22,Delhi,Beauty,2,1108.03,0.19,1795.01,UPI
+1134,Rohit,2025-09-24,Noida,Electronics,8,7267.89,0.17,48258.79,UPI
+1135,Neha,2025-09-26,Delhi,Clothing,4,1434.77,0.11,5107.78,Net Banking
+1136,Vikash,2025-09-28,Noida,Books,1,435.36,0.1,391.82,UPI
+1137,Vikash,2025-09-30,Noida,Books,9,405.44,0.03,3539.49,Net Banking
+1138,Riya,2025-10-02,Gurugram,Electronics,2,6778.84,0.25,10168.26,Cash
+1139,Isha,2025-10-04,Ghaziabad,Grocery,7,528.03,0.21,2920.01,UPI
+1140,Neha,2025-10-06,Meerut,Books,1,564.18,0.24,428.78,UPI
+1141,Isha,2025-10-08,Gurugram,Grocery,10,774.59,0.21,6119.26,Card
+1142,Dev,2025-10-10,Gurugram,Electronics,1,7978.82,0.13,6941.57,Cash
+1143,Rohit,2025-10-12,Meerut,Electronics,8,5003.77,0.21,31623.83,Net Banking
+1144,Vikash,2025-10-14,Meerut,Clothing,4,1618.82,0.07,6022.01,Net Banking
+1145,Ananya,2025-10-16,Meerut,Books,4,522.73,0.17,1735.46,UPI
+1146,Vikash,2025-10-18,Gurugram,Electronics,3,6045.33,0.07,16866.47,UPI
+1147,Simran,2025-10-20,Delhi,Electronics,3,6183.43,0.11,16509.76,Card
+1148,Riya,2025-10-22,Gurugram,Clothing,10,1756.79,0.22,13702.96,Card
+1149,Ananya,2025-10-24,Noida,Electronics,1,7500.55,0.12,6600.48,Card
+1150,Aarav,2025-10-26,Gurugram,Electronics,10,5741.51,0.23,44209.63,UPI
